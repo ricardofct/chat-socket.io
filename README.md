@@ -5,6 +5,7 @@
 - Install node
 - Install dependencies
 	>npm install
+- Run npm start
 - Open browser and go to 
 	> http://localhost:3000
 - Open multiple windows
